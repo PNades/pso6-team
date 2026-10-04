@@ -1,3 +1,3 @@
 Team members: A-Prem Nadesan and B-Xander Krolow
 Favorite programming language: TBD
-Team motto: Tools is fun
+Team motto: CS193 Tools is fun
